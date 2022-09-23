@@ -7,7 +7,7 @@
 ## TL;DR
 * COVID is rampant and I believe we have both a business interest and an ethical obligation to restrict its spread in the office
 * When the [CDC Community Transmission level](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states&list_select_county=all_counties&data-type=Risk&null=Risk) is **Substantial** (**Medium** if risk-averse) or higher in a given office location, I wear a high-quality mask when near others or in conference rooms and test as close to weekly as possible
-  * If you would like to receive weekly updates of the current CDC status, subscribe to [ozzie-covid-mitigation-announce@googlegroups.com](https://groups.google.com/u/1/g/ozzie-covid-mitigation-announce)
+  * If you would like to receive weekly updates of the current CDC status, subscribe to [ozzie-covid-mitigation-announce@googlegroups.com](https://groups.google.com/u/0/g/ozzie-covid-mitigation-announce)
 
 ## Background
 
@@ -44,7 +44,7 @@
   * If suspecting exposure or simply concerned about transmission, bias towards working from home
 * For my personal risk calculus, I am likely to continue with these precautions if CDC Community Transmission is **Medium**, but it's not unreasonable to be less cautious at that level
 * Every week, I check the [CDC Data Tracker](https://covid.cdc.gov/covid-data-tracker/#county-view?list_select_state=all_states&list_select_county=all_counties&data-type=Risk&null=Risk) and will send an email to a listserv to update whether surge precautions are in effect
-  * If you'd like to join me, add yourself to [ozzie-covid-mitigation-announce@googlegroups.com](https://groups.google.com/u/1/g/ozzie-covid-mitigation-announce)
+  * If you'd like to join me, add yourself to [ozzie-covid-mitigation-announce@googlegroups.com](https://groups.google.com/u/0/g/ozzie-covid-mitigation-announce)
 * Regardless of surge status, events should be held outdoors as much as possible
 
 [^1]: If we assume that 4 out of every 5 positive tests are unreported due to at-home testing and that the average COVID infections last 2 weeks, this translates to a 12.5% chance that one people in a 25-person group has an active COVID infection.
